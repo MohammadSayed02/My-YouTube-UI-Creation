@@ -14,7 +14,7 @@
 - HTML
 - CSS
 - Javascript
-- little knowledge of media quieres to be responsive designer.
+- Little knowledge of media queries to be responsive designer.
 
 
 ## take a look on My UI design:
