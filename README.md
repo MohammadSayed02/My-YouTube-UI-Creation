@@ -19,4 +19,7 @@
 
 ## take a look on My UI design:
 
-![UI](ScreenShots/ezgif.com-gif-maker.gif)
+<!-- ![UI](ScreenShots/ezgif.com-gif-maker.gif) -->
+
+![UI](https://github.com/MohammadSayed02/My-YouTube-UI-Creation/blob/main/ScreetShots/ezgif.com-gif-maker.gif?raw=true)
+<!-- https://github.com/MohammadSayed02/My-YouTube-UI-Creation/blob/main/ScreetShots/ezgif.com-gif-maker.gif?raw=true -->
